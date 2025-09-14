@@ -21,8 +21,11 @@ Logs & Cropped Plates → Saves results with timestamps for verification
 🌟 Why It Stands Out
 
 ✅ Real-time performance with multiple input types (video, live, IP stream)
+
 ✅ Modular design → easily extensible for database & cloud integration
+
 ✅ Industry use cases → traffic monitoring, toll booths, parking automation, security systems
+
 ✅ Demonstrates strong skills in AI, ML, Computer Vision, and System Design
 
 🛠️ Tech Stack
